@@ -19,13 +19,13 @@ Before using this tool, make sure you have the session files generated from Bail
 To use the package, you need Node.js (version 14 or higher) installed. You can install the required dependencies via:
 
 ```bash
-npm install
+npm install baileys
 ```
 
 Or with Yarn:
 
 ```bash
-yarn install
+yarn install baileys
 ```
 
 ## Usage
