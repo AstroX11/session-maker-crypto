@@ -1,0 +1,8 @@
+{
+	"name": "session-maker-crypto",
+	"version": "1.0.0",
+	"main": "index.js",
+	"type": "module",
+	"author": "AstroX10 <danielfx0012@gmail.com>",
+	"license": "MIT"
+}
